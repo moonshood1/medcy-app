@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medcy-app/static/css/main.e443f70d.css",
+    "main.js": "/medcy-app/static/js/main.9b0ac74e.js",
+    "static/js/787.7361a35f.chunk.js": "/medcy-app/static/js/787.7361a35f.chunk.js",
+    "index.html": "/medcy-app/index.html",
+    "main.e443f70d.css.map": "/medcy-app/static/css/main.e443f70d.css.map",
+    "main.9b0ac74e.js.map": "/medcy-app/static/js/main.9b0ac74e.js.map",
+    "787.7361a35f.chunk.js.map": "/medcy-app/static/js/787.7361a35f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e443f70d.css",
+    "static/js/main.9b0ac74e.js"
+  ]
+}
